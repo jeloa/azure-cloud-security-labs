@@ -20,3 +20,6 @@ To improve account security by enforcing multi-factor authentication for Azure i
 - Multi-Factor Authentication (MFA)
 - Identity Protection
 - Zero Trust Security Model
+  
+## Screenshots
+![MFA Security Defaults Enabled](screenshots/Lab2-mfa-security-defaults.png)
