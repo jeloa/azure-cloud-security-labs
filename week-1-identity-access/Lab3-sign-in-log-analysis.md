@@ -26,3 +26,8 @@ To analyze Azure sign-in logs and identify authentication patterns, failures, an
 - Log analysis
 - Authentication monitoring
 - Basic incident investigation
+
+## Screenshots
+![Failed Sign-In Filter](screenshots/Lab3-signin-failed-filter.jpg)
+![Sign-In Details](screenshots/Lab3-signin-log-details.jpg)
+![Sign-In Details](screenshots/Lab3-signin-log-details-2.jpg)
