@@ -20,3 +20,9 @@ To configure Azure identities and apply role-based access control following leas
 - Identity and Access Management (IAM)
 - Role-Based Access Control (RBAC)
 - Least Privilege
+
+## Screenshots
+
+### RBAC Role Assignment
+![RBAC Role Assignment](screenshots/Lab1-rbac_role_assignment.jpg)
+![RBAC Role Assignment](screenshots/Lab1-rbac_role_assignment_2.jpg)
