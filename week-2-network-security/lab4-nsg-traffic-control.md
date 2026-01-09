@@ -25,4 +25,4 @@ To control inbound network traffic using Azure Network Security Groups following
 ## Security Concepts Learned
 - Network segmentation
 - Default deny
-- Attack surface reduction
+- Attack surface reduction 
