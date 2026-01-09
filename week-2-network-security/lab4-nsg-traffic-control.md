@@ -25,4 +25,8 @@ To control inbound network traffic using Azure Network Security Groups following
 ## Security Concepts Learned
 - Network segmentation
 - Default deny
-- Attack surface reduction 
+- Attack surface reduction
+  
+## Screenshots
+![Default NSG Rules](screenshots/Lab4-nsg-default-rules.jpg)
+![Allow HTTP Rule](screenshots/Lab4-nsg-allow-http.jpg)
