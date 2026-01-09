@@ -24,3 +24,6 @@ To protect critical Azure resources by applying resource locks and preventing ac
 - Resource governance
 - Change control
 - Operational security
+
+## Screenshots
+![Delete Lock Applied](screenshots/Lab6-resource-lock-delete.jpg)
