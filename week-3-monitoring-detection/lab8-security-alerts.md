@@ -23,4 +23,4 @@ To review Azure security alerts and understand how cloud-native threat detection
 - Cloud security monitoring
 
 ## Screenshots
-![Security Alerts](screenshots/defender-security-alerts.jpg)
+![Security Alerts](screenshots/Lab8-defender-security-alerts.jpg)
