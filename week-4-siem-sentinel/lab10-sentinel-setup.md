@@ -26,4 +26,4 @@ To enable Microsoft Sentinel and understand how SIEM platforms collect and analy
 - Centralized monitoring
 
 ## Screenshots
-![Sentinel Overview](screenshots/sentinel-overview.png)
+![Sentinel Overview](screenshots/Lab10-sentinel-overview.jpg)
