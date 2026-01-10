@@ -1,7 +1,7 @@
-# Azure Activity Logs Integration – Microsoft Sentinel
+# Azure Activity Log Integration – Microsoft Sentinel
 
 ## Objective
-To connect Azure subscription activity logs to Microsoft Sentinel for centralized monitoring.
+To ingest Azure Activity Logs into Microsoft Sentinel for centralized security monitoring.
 
 ## Tools Used
 - Microsoft Sentinel
@@ -9,12 +9,18 @@ To connect Azure subscription activity logs to Microsoft Sentinel for centralize
 - Azure Activity Logs
 
 ## Steps Performed
-1. Opened Microsoft Sentinel and selected workspace
-2. Accessed Content Hub and selected Azure Activity solution
-3. Associated Azure subscription with Sentinel workspace
-4. Verified log ingestion using KQL queries
+1. Accessed Microsoft Sentinel Content Hub
+2. Created Azure Activity connector for the workspace
+3. Verified log ingestion using KQL queries
 
-## Verification
-```kql
-AzureActivity
-| take 5
+## Screenshot Proof
+![Azure Activity Logs](screenshots/lab11-azure-activity-logs.png)
+
+## Outcome
+- Azure Activity logs successfully ingested into Sentinel
+- Enabled visibility into subscription-level actions
+
+## Security Concepts Learned
+- SIEM log ingestion
+- Azure activity monitoring
+- KQL-based validation
