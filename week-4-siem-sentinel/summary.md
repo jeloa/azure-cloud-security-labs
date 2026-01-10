@@ -18,8 +18,3 @@
 - How SOC teams detect suspicious authentication activity
 - How alerts are converted into security incidents
 
-## Resume-Ready Highlights
-- Configured Microsoft Sentinel for centralized security monitoring
-- Integrated Azure Activity and sign-in logs into a SIEM
-- Created analytics rules to detect brute-force authentication attempts
-- Used KQL to validate log ingestion and security events
