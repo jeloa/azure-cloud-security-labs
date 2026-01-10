@@ -10,30 +10,19 @@ To create a Microsoft Sentinel analytics rule that detects multiple failed Azure
 - KQL (Kusto Query Language)
 
 ## Steps Performed
-1. Opened Microsoft Sentinel and selected the assigned workspace
-2. Navigated to Analytics and created a scheduled query rule
-3. Defined detection logic using KQL to identify repeated failed sign-ins
-4. Configured rule severity and MITRE ATT&CK tactic
-5. Enabled incident creation for detected events
+1. Created a scheduled analytics rule in Microsoft Sentinel
+2. Used KQL to detect repeated failed sign-in attempts
+3. Configured alert severity and incident creation
+4. Enabled the rule for continuous monitoring
 
-Outcome
--Sentinel generates alerts for potential brute-force sign-in activity
--Incidents are automatically created for investigation
+## Screenshot Proof
+![Analytics Rule Created](screenshots/lab12-analytics-rule-created.jpg)
 
-Security Concepts Learned
--SIEM detection rules
--Brute-force attack indicators
--Log-based alerting using KQL
+## Outcome
+- Sentinel generates alerts for potential brute-force sign-in activity
+- Security incidents are automatically created for investigation
 
-Configuration
--Rule type: Scheduled query
--Severity: Medium
--Tactic: Credential Access
-
-## Detection Query
-```kql
-SigninLogs
-| where ResultType != 0
-| summarize FailedAttempts = count() by UserPrincipalName
-| where FailedAttempts >= 3
-
+## Security Concepts Learned
+- SIEM detection rules
+- Authentication threat detection
+- Log-based alerting using KQL
