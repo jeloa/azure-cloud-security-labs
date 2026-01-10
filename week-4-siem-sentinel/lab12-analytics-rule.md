@@ -15,9 +15,6 @@ To create a Microsoft Sentinel analytics rule that detects multiple failed Azure
 3. Configured alert severity and incident creation
 4. Enabled the rule for continuous monitoring
 
-## Screenshot Proof
-![Analytics Rule Created](screenshots/lab12-analytics-rule-created.jpg)
-
 ## Outcome
 - Sentinel generates alerts for potential brute-force sign-in activity
 - Security incidents are automatically created for investigation
@@ -26,3 +23,7 @@ To create a Microsoft Sentinel analytics rule that detects multiple failed Azure
 - SIEM detection rules
 - Authentication threat detection
 - Log-based alerting using KQL
+
+ 
+ ## Screenshot Proof
+![Analytics Rule Created](screenshots/lab12-analytics-rule-created.jpg)
