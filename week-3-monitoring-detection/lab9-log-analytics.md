@@ -25,5 +25,5 @@ To create a centralized logging workspace for monitoring and security analysis.
 - Monitoring architecture
 - SIEM fundamentals
 
-## Screenshots
+## Screenshot
 ![Log Analytics Workspace](screenshots/Lab9-log-analytics-workspace.jpg)
