@@ -66,9 +66,8 @@ The emphasis is on:
 
 ##  Next Steps
 
-After completing these foundational labs, I continued with more structured and advanced hands-on projects, including:
+After completing these foundational labs, I will continue with more structured and advanced hands-on projects, including:
 
-- **AZ-104 Azure Administrator hands-on labs**
 - Deeper monitoring, networking, and identity configurations
 - More advanced security and operational scenarios
 
