@@ -25,5 +25,5 @@ To review Azure Activity Logs and understand how administrative actions are trac
 - Audit trails
 - Incident investigation
 
-## Screenshots
+## Screenshot
 ![Activity Log Event](screenshots/Lab7-activity-log-event.jpg)
