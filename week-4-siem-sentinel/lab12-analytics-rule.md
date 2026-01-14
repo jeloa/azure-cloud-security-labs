@@ -25,5 +25,5 @@ To create a Microsoft Sentinel analytics rule that detects multiple failed Azure
 - Log-based alerting using KQL
 
  
- ## Screenshot Proof
+ ## Screenshot 
 ![Analytics Rule Created](screenshots/lab12-analytics-rule-created.jpg)
