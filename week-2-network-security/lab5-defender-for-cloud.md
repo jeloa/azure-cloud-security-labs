@@ -26,6 +26,6 @@ To review Azure security posture using Microsoft Defender for Cloud and understa
 - Risk-based prioritization
 - Misconfiguration management
 
-## Screenshots
+## Screenshot
 ![Secure Score Dashboard](screenshots/Lab5-defender-secure-score.jpg)
 
