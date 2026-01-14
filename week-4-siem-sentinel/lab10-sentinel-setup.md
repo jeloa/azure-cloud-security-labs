@@ -25,5 +25,5 @@ To enable Microsoft Sentinel and understand how SIEM platforms collect and analy
 - Security operations (SOC)
 - Centralized monitoring
 
-## Screenshots
+## Screenshot
 ![Sentinel Overview](screenshots/Lab10-sentinel-overview.jpg)
