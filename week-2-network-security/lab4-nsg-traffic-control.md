@@ -27,6 +27,6 @@ To control inbound network traffic using Azure Network Security Groups following
 - Default deny
 - Attack surface reduction
   
-## Screenshots
+## Screenshot
 ![Default NSG Rules](screenshots/Lab4-nsg-default-rules.jpg)
 ![Allow HTTP Rule](screenshots/Lab4-nsg-allow-http.jpg)
